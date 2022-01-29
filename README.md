@@ -1,7 +1,7 @@
 # Self-learning about CS61A (Version 21 fall).
 ### 目前进展
 lab :
-- [ ] lab00 : Getting Started(Optional)
+- [x] lab00 : Getting Started(Optional)
 - [ ] lab01 : Varibles & Functions, Control
 - [ ] lab02 : Higher-Order Functions, Lambda Expressions
 - [ ] lab03 : Midterm Review(Optional)  
