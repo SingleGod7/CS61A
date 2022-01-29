@@ -2,9 +2,9 @@
 ### 目前进展
 lab :
 - [x] lab00 : Getting Started(Optional)
-- [ ] lab01 : Varibles & Functions, Control
-- [ ] lab02 : Higher-Order Functions, Lambda Expressions
-- [ ] lab03 : Midterm Review(Optional)  
+- [x] lab01 : Varibles & Functions, Control
+- [x] lab02 : Higher-Order Functions, Lambda Expressions
+- [x] lab03 : Midterm Review(Optional)  
 - [ ] lab04 : Recusion, Tree Recursion. Python Lists
 - [ ] lab05 : Python Lists, Trees
 - [ ] lab06 : Mutability, Iterators
@@ -18,7 +18,7 @@ lab :
 - [ ] lab14 : Final Review
 
 discussion :
-- [ ] disc00 : Getting Started
+- [x] disc00 : Getting Started
 - [ ] disc01 : Control, Environment Diagrams
 - [ ] disc02 :  Higher-Order Functions,Self Reference
 - [ ] disc03 : Recursion
@@ -33,8 +33,8 @@ discussion :
 - [ ] disc14 : Final Review
 
 homework:
-- [ ]  HW 01 : Control
-- [ ]  HW 02 : Higher-Order Functions
+- [x]  HW 01 : Control
+- [x]  HW 02 : Higher-Order Functions
 - [ ]  HW 03 : Recursion, Tree Recursion
 - [ ]  HW 04 : Data Abstraction, Trees
 - [ ]  HW 05 : Iterators and Generators
@@ -46,7 +46,7 @@ homework:
 - [ ]  HW 11 : Finale
 
 project:
-- [ ] Hog
+- [x] Hog
 - [ ] Cats
 - [ ] Ants
 - [ ] Scheme
