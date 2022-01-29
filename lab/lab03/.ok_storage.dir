@@ -1,0 +1,6 @@
+'unique_digits-correct', (0, 70)
+'ordered_digits-correct', (512, 70)
+'get_k_run_starter-correct', (1024, 70)
+'make_repeater-correct', (1536, 70)
+'apply_twice-correct', (2048, 70)
+'protected_secret-correct', (2560, 70)
