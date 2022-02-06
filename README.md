@@ -35,7 +35,7 @@ discussion :
 homework:
 - [x]  HW 01 : Control
 - [x]  HW 02 : Higher-Order Functions
-- [ ]  HW 03 : Recursion, Tree Recursion
+- [x]  HW 03 : Recursion, Tree Recursion
 - [ ]  HW 04 : Data Abstraction, Trees
 - [ ]  HW 05 : Iterators and Generators
 - [ ]  HW 06 : Object-Oriented Programming, Linked Lists
