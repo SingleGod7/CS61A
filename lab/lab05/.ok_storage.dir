@@ -1,0 +1,8 @@
+'factors_list-correct', (0, 70)
+'flatten-correct', (512, 70)
+'distance-correct', (1024, 70)
+'closer_city-correct', (1536, 70)
+'check_city_abstraction-correct', (2048, 70)
+'berry_finder-correct', (2560, 70)
+'sprout_leaves-correct', (3072, 70)
+'check_abstraction-correct', (3584, 70)

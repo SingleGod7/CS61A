@@ -1,0 +1,5 @@
+'gen_perms-correct', (0, 70)
+'path_yielder-correct', (512, 70)
+'preorder-correct', (1024, 70)
+'generate_preorder-correct', (1536, 70)
+'remainders_generator-correct', (2048, 70)
