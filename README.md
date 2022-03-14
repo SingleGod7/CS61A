@@ -25,7 +25,7 @@ discussion :
 - [x] disc04 : Tree Recursion, Python Lists
 - [x] disc05 : Trees, Data Abstraction, Sequences
 - [x] disc06 : Mutability, Iterators and Generators
-- [ ] disc07 : Object-Oriented Programming, String Representation
+- [x] disc07 : Object-Oriented Programming, String Representation
 - [ ] disc08 : Linked Lists, Trees
 - [ ] disc10 : Scheme, Scheme Lists
 - [ ] disc11 : Interpreters
@@ -38,7 +38,7 @@ homework:
 - [x]  HW 03 : Recursion, Tree Recursion
 - [x]  HW 04 : Data Abstraction, Trees
 - [x]  HW 05 : Iterators and Generators
-- [ ]  HW 06 : Object-Oriented Programming, Linked Lists
+- [x]  HW 06 : Object-Oriented Programming, Linked Lists
 - [ ]  HW 07 : Scheme
 - [ ]  HW 08 : Scheme Lists
 - [ ]  HW 09 : Regular Expression
@@ -48,5 +48,5 @@ homework:
 project:
 - [x] Hog
 - [x] Cats
-- [ ] Ants
+- [x] Ants
 - [ ] Scheme
