@@ -1,0 +1,7 @@
+'VendingMachine-correct', (0, 70)
+'Mint-correct', (512, 70)
+'store_digits-correct', (1024, 70)
+'deep_map_mut-correct', (1536, 70)
+'two_list-correct', (2048, 70)
+'VirFib-correct', (2560, 70)
+'is_bst-correct', (3072, 70)
