@@ -1,0 +1,33 @@
+{
+    "name": "Lab 9",
+    "endpoint": "cal/cs61a/fa21/lab09",
+    "src": [
+        "lab09.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "subseqs",
+        "non_decrease_subseqs",
+        "num_trees",
+        "merge",
+        "Account",
+        "trade",
+        "shuffle",
+        "insert",
+        "deep_len",
+        "make_to_string",
+        "long_paths",
+        "is_palindrome"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

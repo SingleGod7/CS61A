@@ -8,12 +8,12 @@ lab :
 - [x] lab04 : Recusion, Tree Recursion. Python Lists
 - [x] lab05 : Python Lists, Trees
 - [x] lab06 : Mutability, Iterators
-- [ ] lab07 : Object-Oriented Programming
-- [ ] lab08 : Linked Lists, Trees
-- [ ] lab09 : MIdterm Review(Optional)
-- [ ] lab10 : Scheme
-- [ ] lab11 :  Interpreters
-- [ ] lab12 : Regular Expressions, BNF
+- [x] lab07 : Object-Oriented Programming
+- [x] lab08 : Linked Lists, Trees
+- [x] lab09 : MIdterm Review(Optional)
+- [x] lab10 : Scheme
+- [x] lab11 : Interpreters
+- [x] lab12 : Regular Expressions, BNF
 - [ ] lab13 : SQL
 - [ ] lab14 : Final Review
 
@@ -26,10 +26,10 @@ discussion :
 - [x] disc05 : Trees, Data Abstraction, Sequences
 - [x] disc06 : Mutability, Iterators and Generators
 - [x] disc07 : Object-Oriented Programming, String Representation
-- [ ] disc08 : Linked Lists, Trees
-- [ ] disc10 : Scheme, Scheme Lists
-- [ ] disc11 : Interpreters
-- [ ] disc12 : Regular Expressions, BNF, SQL
+- [x] disc08 : Linked Lists, Trees
+- [x] disc10 : Scheme, Scheme Lists
+- [x] disc11 : Interpreters
+- [x] disc12 : Regular Expressions, BNF, SQL
 - [ ] disc14 : Final Review
 
 homework:
@@ -39,10 +39,10 @@ homework:
 - [x]  HW 04 : Data Abstraction, Trees
 - [x]  HW 05 : Iterators and Generators
 - [x]  HW 06 : Object-Oriented Programming, Linked Lists
-- [ ]  HW 07 : Scheme
-- [ ]  HW 08 : Scheme Lists
-- [ ]  HW 09 : Regular Expression
-- [ ]  HW 10 : BNF, SQL
+- [x]  HW 07 : Scheme
+- [x]  HW 08 : Scheme Lists
+- [x]  HW 09 : Regular Expression
+- [x]  HW 10 : BNF, SQL
 - [ ]  HW 11 : Finale
 
 project:
