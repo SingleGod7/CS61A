@@ -14,8 +14,8 @@ lab :
 - [x] lab10 : Scheme
 - [x] lab11 : Interpreters
 - [x] lab12 : Regular Expressions, BNF
-- [ ] lab13 : SQL
-- [ ] lab14 : Final Review
+- [x] lab13 : SQL
+- [x] lab14 : Final Review
 
 discussion :
 - [x] disc00 : Getting Started
@@ -30,7 +30,7 @@ discussion :
 - [x] disc10 : Scheme, Scheme Lists
 - [x] disc11 : Interpreters
 - [x] disc12 : Regular Expressions, BNF, SQL
-- [ ] disc14 : Final Review
+- [x] disc14 : Final Review
 
 homework:
 - [x]  HW 01 : Control
@@ -43,7 +43,6 @@ homework:
 - [x]  HW 08 : Scheme Lists
 - [x]  HW 09 : Regular Expression
 - [x]  HW 10 : BNF, SQL
-- [ ]  HW 11 : Finale
 
 project:
 - [x] Hog

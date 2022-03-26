@@ -1,0 +1,11 @@
+?start:lines
+lines:  [line newline]* line [newline]
+
+line: "null" |  (word ",")* word
+
+word: WORD?
+
+newline: "\n"
+
+%import common.WORD
+
