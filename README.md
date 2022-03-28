@@ -1,4 +1,4 @@
-# Self-learning about CS61A (Version 21 fall).
+# Self-learning about CS61A (Version 2021 fall).
 ### 目前进展
 lab :
 - [x] lab00 : Getting Started(Optional)
@@ -48,4 +48,4 @@ project:
 - [x] Hog
 - [x] Cats
 - [x] Ants
-- [ ] Scheme
+- [x] Scheme
